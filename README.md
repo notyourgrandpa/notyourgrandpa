@@ -51,12 +51,13 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
       </p>
       </div>
     </td>
+    <!-- TO ADD
     <td>
       <h3>GitHub Stats</h3>
       <p>
-        <!-- TO ADD-->
       </p>
     </td>
+    -->
   </tr>
 </table>
 
