@@ -54,7 +54,7 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
     <td>
       <h3>GitHub Stats</h3>
       <p>
-        <img src="hnotyourgrandpa-github-readme-stats.vercel.app/api?username=notyourgrandpa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+        <img src="https://notyourgrandpa-github-readme-stats-dkm9g1vrx.vercel.app/api?username=notyourgrandpa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
       </p>
       <p>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=notyourgrandpa&theme=radical&hide_border=true" alt="GitHub Streak" />
