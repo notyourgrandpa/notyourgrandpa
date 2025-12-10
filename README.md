@@ -54,9 +54,10 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
     <td>
       <h3>GitHub Stats</h3>
       <p>
-        ![Piolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=notyourgrandpa&show_icons=true&theme=tokyonight)
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notyourgrandpa&layout=compact&theme=tokyonight)
-        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=notyourgrandpa&theme=tokyonight)
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </p>
+      <p>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
       </p>
     </td>
     
