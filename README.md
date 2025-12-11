@@ -59,6 +59,9 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
       <p>
         <img src="https://github-readme-streak-stats-i5fr.vercel.app/?user=notyourgrandpa&theme=radical&hide_border=true" alt="GitHub Streak" />
       </p>
+      <p>
+        [<img src="https://github-readme-streak-stats-i5fr.vercel.app/?user=notyourgrandpa&theme=radical&hide_border=true" alt="GitHub Streak" />](https://githubcard.com/notyourgrandpa.svg?d=fUXA3i-i)
+      </p>
     </td>
     
   </tr>
